@@ -1,7 +1,7 @@
 import java.io.Serializable;
 
 public class Cat {
-    String name;
+    private String name;
 
     public String getName() {
         return name;
